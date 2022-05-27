@@ -1,0 +1,16 @@
+# Circleci Pipeline
+
+
+
+***
+Circleci pipeline of this project:
+* install nodejs
+* install npm
+* install aws cli
+* install eb
+* install backend 
+* install frontend 
+* build backend
+* build frontend
+* deploy backend into AWS EB 
+* deploy frontend into AWS S3 

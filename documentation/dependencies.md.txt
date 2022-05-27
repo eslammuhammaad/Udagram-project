@@ -1,0 +1,14 @@
+# Dependencies
+
+***
+Dependencies used within the project:
+* nodejs
+* typescript
+* seqilize
+* jsonwebtoken
+*  angular
+* bcrypt
+* jasmine
+* aws-sdk
+* cors
+* body-parser

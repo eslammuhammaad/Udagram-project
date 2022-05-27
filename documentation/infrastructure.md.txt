@@ -1,0 +1,10 @@
+# Infrastructure
+
+
+
+***
+Infrastructure of this project :
+* Postgres database hosted on amazon RDS (aws-rds).
+* Nodejs backend deployed on amazon elastic beanstalk (aws-eb)
+* Angular for frontend deployed on amazon s3 bucket (aws-s3)
+r
